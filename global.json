@@ -1,0 +1,14 @@
+﻿{
+  "projects": [ "src" ],
+  "authors": [ "Gregory Zak <thegzak@gmail.com>" ],
+  "packOptions": {
+    "owners": [ "Gregory Zak <thegzak@gmail.com>" ],
+    "summary": "Simple, type-safe, mockable, and json-based extension of the native HttpClient class",
+    "tags": [ "type-safe", "mockable", "httpclient", "json", "patch" ],
+    "releaseNotes": "Initial release"
+  },
+  "description": "Simple, type-safe, mockable, and json-based extension of the native HttpClient class",
+  "sdk": {
+    "version": "1.0.0-preview2-003131"
+  }
+}
